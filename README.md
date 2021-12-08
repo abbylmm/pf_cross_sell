@@ -1,1 +1,1 @@
-# pf_cross_sell
+# pf_smart_sell
